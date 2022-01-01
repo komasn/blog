@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "POST TITLE"
 date: 2022-01-01
 categories: CATEGORY-1 CATEGORY-2
