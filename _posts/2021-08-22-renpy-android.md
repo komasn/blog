@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ren'PyでのAndroid開発
 author: "komasn"
 date: 2021-08-22 13:00
