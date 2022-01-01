@@ -3,7 +3,8 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ page.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.url }}
     </li>
   {% endfor %}
 </ul>　　
