@@ -1,6 +1,6 @@
 ---
 title: "POST TITLE"
-date: 2022-01-01
+date: 2022-01-01 13:00
 categories: CATEGORY-1 CATEGORY-2
 ---  
 githubでブログを作ろうと思います。
