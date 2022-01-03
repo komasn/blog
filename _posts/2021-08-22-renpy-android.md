@@ -1,5 +1,5 @@
 ---
-title: Ren'PyでのAndroid開発
+title: Ren'PyでのAndroid開発アプリ
 author: "komasn"
 date: 2021-08-22 13:00
 categories: BLOG Ubuntu
