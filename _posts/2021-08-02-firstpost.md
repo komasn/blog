@@ -6,6 +6,8 @@ categories: BLOG GitHub Ubuntu jekyll
 ---
 githubを使ってブログを作ってみようと思います🤗
 githubとjekyllを組み合わせています。  
+
+
 <br>
 <br>
 <br>
