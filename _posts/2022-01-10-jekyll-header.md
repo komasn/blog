@@ -28,4 +28,5 @@ readmeに書いてある通りですが、_includesのhead-custom.htmlに追記�
 layoutsの編集なども色々出来そうなので、少しずつ試していこうと思います🏹　　
 <br>
 やっぱりjekyllは楽しいなあ😄  
+{{ page.title }}  
 {{ page.date }}
