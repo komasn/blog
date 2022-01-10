@@ -31,5 +31,3 @@ layoutsの編集なども色々出来そうなので、少しずつ試してい�
 <br>
 <p>{{ page.title }}</p>
 <p>{{ page.date }}</p>
-<p>{{ page.next }}</p>
-<p>[前のページ]({{ paginator.previous_page_path }})</p>
