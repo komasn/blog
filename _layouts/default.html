@@ -23,11 +23,14 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h3>
         <nav>
-      <a href="/">Home</a>
-      <a href="/about.html">About</a>
-      <a href="/list.html">List</a>
-    </nav>
+          <a href="/">Home</a>
+          <a href="/about.html">About</a>
+          <a href="/list.html">List</a>
+        </nav>
+        </h3>
+    
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
