@@ -7,7 +7,7 @@ categories: BLOG jekyll GitHub
 
 
 <br>
-使っているデータはarchitectです。   
+使っているテーマはarchitectです。   
 ヘッダー行を編集する方法が分からなかったのですが、architectの公式githubリポジトリに記述がありました。  
 <br>
 [architect公式](https://github.com/pages-themes/architect)  
