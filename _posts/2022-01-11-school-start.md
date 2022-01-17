@@ -17,12 +17,18 @@ categories: BLOG
 
 [ミステリと言う勿れ<フジテレビ公式>](https://www.fujitv.co.jp/mystery/)
 
+[ミステリと言う勿れ<wikipediaからの引用>](https://ja.m.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%81%A8%E8%A8%80%E3%81%86%E5%8B%BF%E3%82%8C)  
+
+>『ミステリと言う勿れ』（ミステリというなかれ、英文表記: Do not say mystery）は、田村由美による日本のミステリー漫画。
+
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2hizRuDINa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p>第一話が始まったばかりのドラマで、とても続きが気になる内容でした😂</p>
 
-<p>主人公も変わった感じですが、巡査役の尾上 松也が不思議なキャラクターで見ていて楽しいです😃</p>
+<p>菅田将暉が演じる主人公の久能 整（くのう ととのう）も変わった感じですが、巡査役の尾上 松也が不思議なキャラクターで見ていて楽しいです😃</p>
 <p>ドラマはあまり観ないのですが尾上 松也さんの[サボリーマン甘太朗](https://precious.jp/articles/-/2166)はすごく笑える楽しい内容だったと思います。</p>
 <p>2022年は時間をみつけてドラマも少しづつ観たいなと思います😃</p>
+<p>新年最初に気になるドラマが始まりました😄</p>
+<p>毎週楽しみにしていこうと思いますてんし</p>
 <p>{{ page.title }}</p>
 <p>{{ page.date }}</p>
