@@ -17,6 +17,6 @@ title: About
 主にiPhone/iPad miniで更新しています。    
 
 - iPad mini(第5世代)
+- [サンワダイレクト Bluetoothキーボード タッチパッド iPhone・iPad専用 充電式 3台マルチペアリング スタンド付 パンタグラフ 英語配列 400-SKB071](https://amzn.to/3BCv9B3)
 - [Working Copy](https://apps.apple.com/jp/app/working-copy-git-client/id896694807)
-- [Termius](https://apps.apple.com/jp/app/termius-ssh-client/id549039908)
-- [# Type](https://apps.apple.com/jp/app/type/id1214613873)
+
