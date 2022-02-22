@@ -30,8 +30,9 @@ categories: BLOG
 
 [【Nintendo Switch】joy-conのLEDが点灯しない！原因と修理方法](https://careresma-experience.com/switch-joycon-led/)
 
-<p>Amazonでフレキシブルケーブルと三角ドライバーを注文し、この日はwiiuでレゴシティーアンダーカバーで遊びました。</p>
 <p>ニンテンドースイッチのコントローラはY型ドライバーがないと分解することが出来ません😃</p>
+
+<p>AmazonでフレキシブルケーブルとY型ドライバーを注文し、この日はwiiuでレゴシティーアンダーカバーで遊びました。</p>
 
 [サンフラッグ 特殊精密ドライバー Y型 2.2mm 17-CB](https://amzn.to/3gOyovK)
 [KESOTO 交換部品　ニンテンドースイッチ Joy-Con対応　左/ 右SL SRキーボタンフレックスケーブル](https://amzn.to/3GRXjsX)
