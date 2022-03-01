@@ -18,6 +18,7 @@ categories: BLOG Ubuntu GitHub
 [【atomをgithubと連携させよう！】導入手順まとめ](https://www.sejuku.net/blog/73327)
 
 <p>連携自体は数分で完了しました。これまではAtomで編集したものをターミナルのGitでGitHubに上げていましたが、見違えるように快適です。</p>
+<p>やっぱりパソコンは便利だなー</p>
 
 <p>{{ page.title }}</p>
 <p>{{ page.date }}</p>
