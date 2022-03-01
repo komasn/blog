@@ -8,8 +8,6 @@ categories: BLOG Ubuntu GitHub
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=amgrsn-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08MRXN5GS&linkId=64bdb6a4bcbd134515699f7d12fe29cf"></iframe>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=amgrsn-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08C1LR9RC&linkId=4f4330750317eb52fe89d71215e94ae1"></iframe>
-
 <p>妻とはTVerやYoutubeをだらだら見ることが多いのですが、やはりすごく便利です。</p>
 <p>これまではメディア閲覧用にパソコンをテレビに接続していたため、おもにブログの更新や勉強などはiPadminiやiPhoneSEで行っていました。</p>
 
