@@ -1,1 +1,4 @@
 /assets/images/photo-3.jpeg
+_site/
+.jekyll-cache/
+.sass-cache/
