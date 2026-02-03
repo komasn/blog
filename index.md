@@ -13,9 +13,21 @@
         {% endif %}
 
         {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          {% if post.image contains '{{' %}
+            {% assign pparts = post.image | split: "'" %}
+            {% assign pimg = pparts[1] %}
+            <img src="{{ pimg | relative_url }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+          {% endif %}
         {% elsif first_image != "" %}
-          <img src="{{ first_image | relative_url }}" alt="{{ post.title }}">
+          {% if first_image contains '{{' %}
+            {% assign parts2 = first_image | split: "'" %}
+            {% assign imgpath = parts2[1] %}
+            <img src="{{ imgpath | relative_url }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ first_image | relative_url }}" alt="{{ post.title }}">
+          {% endif %}
         {% else %}
           <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="{{ post.title }}">
         {% endif %}
