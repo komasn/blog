@@ -5,3 +5,4 @@ twitter_username: kiabmgru48
 theme: jekyll-theme-architect
 url: "https://komasn.github.io"
 baseurl: "/blog"
+future: true
