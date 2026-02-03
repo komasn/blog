@@ -22,13 +22,13 @@ Ren'pyには[Androidアプリとして成果物をビルドする機能](https:/
 ## うまくいかない
 Ren'pyで作成したプロジェクト「TwoMOuse」を選択して、画面右下のAndroidをクリックします。  
 <BR>
-![image1](/assets/images/Screenshot from 2021-08-22 13-47-17.png)  
+![image1]({{ '/assets/images/Screenshot from 2021-08-22 13-47-17.png' | relative_url }})  
 <BR>
 SDKのインストールキー&キーの作成をクリックします。  
-![image2](/assets/images/Screenshot from 2021-08-22 14-02-32.png)  
+![image2]({{ '/assets/images/Screenshot from 2021-08-22 14-02-32.png' | relative_url }})  
 <BR>
 すると以下のエラーメッセージが吐き出されました。  
-![image3](/assets/images/Screenshot from 2021-08-22 14-05-58.png)
+![image3]({{ '/assets/images/Screenshot from 2021-08-22 14-05-58.png' | relative_url }})
 
 >Ren'Py 7.4.8.1895  
 >  
