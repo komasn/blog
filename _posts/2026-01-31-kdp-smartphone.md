@@ -3,6 +3,7 @@ title: "スマホでできる！はじめてのKindle出版（KDP）最短ガイ
 date: 2026-01-31
 tags: [KDP, Kindle, 執筆, スマホ]
 description: "スマホだけでKindle出版を完了するための実践ガイド。マークダウン→epub変換、KDP登録、表紙作成までの具体手順を解説します。"
+categories: BLOG Ubuntu GitHub
 ---
 
 はじめまして、こまごろです。
