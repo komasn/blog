@@ -9,9 +9,13 @@ title: PostList
         <div class="post-card-thumb">
           {% assign content = post.content | strip_newlines %}
           {% assign first_image = "" %}
-          {% if content contains 'src="' %}
-            {% assign parts = content | split: 'src="' %}
-            {% assign first_image = parts[1] | split: '"' | first %}
+          {% if content contains '<img' and content contains 'src="' %}
+            {% assign img_parts = content | split: '<img' %}
+            {% assign img_tag = img_parts[1] %}
+            {% if img_tag contains 'src="' %}
+              {% assign parts = img_tag | split: 'src="' %}
+              {% assign first_image = parts[1] | split: '"' | first %}
+            {% endif %}
           {% elsif content contains '![' %}
             {% assign parts = content | split: '![' %}
             {% assign first_image = parts[1] | split: '(' | last | split: ')' | first %}
