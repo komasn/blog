@@ -5,7 +5,7 @@ title: PostList
   <h3>{{ category[0] }}</h3>
   <div class="post-cards">
     {% for post in category[1] %}
-      <div class="post-card">
+      <a class="post-card" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
         <div class="post-card-thumb">
           {% assign content = post.content | strip_newlines %}
           {% assign first_image = "" %}
@@ -46,13 +46,10 @@ title: PostList
           {% endif %}
         </div>
         <div class="post-card-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {{ post.title }}
         </div>
         <div class="post-card-meta">{{ post.date | date: "%Y-%m-%d" }}</div>
-        <div class="post-card-excerpt">
-          {{ post.excerpt | strip_html | truncate: 120 }}
-        </div>
-      </div>
+      </a>
     {% endfor %}
   </div>
 {% endfor %}
