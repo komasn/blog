@@ -6,3 +6,4 @@ theme: jekyll-theme-architect
 url: "https://komasn.github.io"
 baseurl: "/blog"
 future: true
+google_analytics: "G-D452PCN987"

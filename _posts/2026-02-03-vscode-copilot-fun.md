@@ -1,7 +1,7 @@
 ---
 title: "VSCode + GitHub Copilotが楽しくて便利すぎる"
 date: 2026-02-03 19:00
-categories: BLOG KDP
+categories: BLOG KDP GitHub
 description: "VSCodeとGitHub Copilotで作業が楽しく捗ること、活用の広がりにワクワクする話。"
 tags: [VSCode, GitHub Copilot, ブログ, KDP, プログラミング, 執筆]
 ---
