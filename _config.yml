@@ -2,8 +2,7 @@ title: 独楽鼠吾郎と3名の扶養家族
 description: >-
   私、独楽鼠吾郎と3名の扶養家族のブログです。
 twitter_username: kiabmgru48
-# theme: jekyll-theme-architect
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list
 url: "https://komasn.github.io"
