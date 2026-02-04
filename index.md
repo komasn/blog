@@ -1,7 +1,8 @@
 <div class="post-cards">
   {% for post in site.posts limit:5 %}
-    <a class="post-card" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
-      <div class="post-card-thumb">
+    <div class="post-card" aria-label="{{ post.title }}">
+      <a class="post-card-link" href="{{ post.url | relative_url }}">
+        <div class="post-card-thumb">
         {% assign content = post.content | strip_newlines %}
         {% assign first_image = "" %}
         {% if content contains '<img' and content contains 'src="' %}
@@ -39,10 +40,11 @@
         {% else %}
           <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="{{ post.title }}">
         {% endif %}
-      </div>
-      <div class="post-card-title">
-        {{ post.title }}
-      </div>
+        </div>
+        <div class="post-card-title">
+          {{ post.title }}
+        </div>
+      </a>
       {% if post.categories %}
         <div class="post-card-categories">
           {% for category in post.categories %}
@@ -51,7 +53,7 @@
         </div>
       {% endif %}
       <div class="post-card-meta">{{ post.date | date: "%Y-%m-%d" }}</div>
-    </a>
+    </div>
   {% endfor %}
 </div>
 
