@@ -5,6 +5,8 @@ categories: BLOG KDP
 description: "VSCodeとGitHub Copilotで作業が楽しく捗ること、活用の広がりにワクワクする話。"
 tags: [VSCode, GitHub Copilot, ブログ, KDP, プログラミング, 執筆]
 ---
+# {{ page.title }}
+<p>{{ page.date }}</p>
 
 VSCodeとGitHub Copilotの組み合わせが、想像以上に便利で楽しいです。  
 コードを書くのはもちろん、文章を書くときも「次に何を書こう」を自然に導いてくれるので、作業が止まりにくい。  
