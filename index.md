@@ -43,6 +43,13 @@
       <div class="post-card-title">
         {{ post.title }}
       </div>
+      {% if post.categories %}
+        <div class="post-card-categories">
+          {% for category in post.categories %}
+            <a class="post-category" href="{{ '/categories.html' | relative_url }}#{{ category | slugify }}">{{ category }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
       <div class="post-card-meta">{{ post.date | date: "%Y-%m-%d" }}</div>
     </a>
   {% endfor %}

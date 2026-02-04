@@ -37,6 +37,14 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
+          {% if page.categories %}
+            <div class="post-categories">
+              <span class="post-categories-label">カテゴリ:</span>
+              {% for category in page.categories %}
+                <a class="post-category" href="{{ '/categories.html' | relative_url }}#{{ category | slugify }}">{{ category }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
         </section>
 
         <aside id="sidebar">
@@ -77,6 +85,21 @@
         </aside>
       </div>
     </div>
+
+    <script>
+      (function () {
+        var main = document.getElementById('main-content');
+        if (!main) return;
+        var categories = main.querySelector('.post-categories');
+        if (!categories) return;
+        var title = main.querySelector('h1');
+        if (!title) return;
+        var firstParagraph = title.nextElementSibling;
+        if (!firstParagraph || firstParagraph.tagName.toLowerCase() !== 'p') return;
+        if (categories === firstParagraph.previousElementSibling) return;
+        title.parentNode.insertBefore(categories, firstParagraph);
+      })();
+    </script>
 
   </body>
 </html>
