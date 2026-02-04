@@ -1,5 +1,5 @@
 <div class="post-cards">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:5 %}
     <a class="post-card" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
       <div class="post-card-thumb">
         {% assign content = post.content | strip_newlines %}
@@ -47,3 +47,7 @@
     </a>
   {% endfor %}
 </div>
+
+<p>
+  <a href="{{ '/list.html' | relative_url }}">and more</a>
+</p>
