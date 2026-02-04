@@ -5,8 +5,8 @@ tags: [KDP, Kindle, 執筆, スマホ]
 description: "スマホだけでKindle出版を完了するための実践ガイド。マークダウン→epub変換、KDP登録、表紙作成までの具体手順を解説します。"
 categories: BLOG KDP
 ---
-<p><h>{{ page.title }}</h></p>
-<p><h>{{ page.date }}</h></p>
+# {{ page.title }}
+<p>{{ page.date }}</p>
 
 スマートフォンだけでKindle出版（KDP）を完了させたい方向けに、最短で「書く → epub作成 → KDP登録」までをわかりやすくまとめました。本記事を読み終える頃には、コスト0で電子書籍を出すための具体的な手順、私が実際に使っているツールとテンプレが手に入ります。
 
