@@ -16,7 +16,7 @@ title: PostList
       </ul>
       {% if category[1].size > 5 %}
         <p>
-          <a href="{{ '/categories.html#' | relative_url }}{{ category[0] | slugify }}">and more</a>
+          <a href="{{ '/categories.html' | relative_url }}#{{ category[0] | slugify }}">and more</a>
         </p>
       {% endif %}
     </section>
