@@ -86,20 +86,5 @@
       </div>
     </div>
 
-    <script>
-      (function () {
-        var main = document.getElementById('main-content');
-        if (!main) return;
-        var categories = main.querySelector('.post-categories');
-        if (!categories) return;
-        var title = main.querySelector('h1');
-        if (!title) return;
-        var firstParagraph = title.nextElementSibling;
-        if (!firstParagraph || firstParagraph.tagName.toLowerCase() !== 'p') return;
-        if (categories === firstParagraph.previousElementSibling) return;
-        title.parentNode.insertBefore(categories, firstParagraph);
-      })();
-    </script>
-
   </body>
 </html>
