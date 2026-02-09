@@ -1,7 +1,7 @@
 ---
 title: "Switch2と初代Switch両対応ドックを購入"
 date: 2026-02-04 20:00
-categories: BLOG GAME
+categories: ["ガジェット", "ゲーム", "家族", "レビュー"]
 description: "ニンテンドースイッチ2と初代スイッチ両対応のドックを購入する話。家族で遊ぶ時の手間が減るかも。"
 tags: [Nintendo Switch, ゲーム, 家族, ドック]
 ---

@@ -2,7 +2,7 @@
 title: Ren'PyでのAndroidアプリ開発
 author: "komasn"
 date: 2021-08-22 13:00
-categories: BLOG Ubuntu
+categories: ["技術", "ゲーム開発", "Android", "RenPy"]
 ---  
 ## Androidデベロッパーアカウントが停止される
 私のAndroidデベロッパーアカウントが2021年10月13日に削除されそうです。  

@@ -2,7 +2,7 @@
 title: "ブログ作成"
 author: "komasn"
 date: 2021-08-02 22:00
-categories: BLOG GitHub Ubuntu jekyll
+categories: ["技術", "GitHub", "Jekyll", "Ubuntu"]
 ---
 githubを使ってブログを作ってみようと思います🤗
 githubとjekyllを組み合わせています。  
