@@ -2,7 +2,7 @@
 title: 妻の趣味
 author: "komasn"
 date: 2021-08-15 21:00
-categories: BLOG
+categories: ["家族", "日常", "生活"]
 ---  
 
 県内でもコロナウィルス陽性者が増え続けています…  

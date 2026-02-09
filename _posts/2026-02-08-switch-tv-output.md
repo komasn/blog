@@ -1,7 +1,7 @@
 ---
 title: "Switch2と初代Switch両対応ドックを実際に使ってみた"
 date: 2026-02-08
-categories: BLOG GAME
+categories: ["ガジェット", "ゲーム", "レビュー", "家族"]
 description: "Switch2と初代Switch両対応ドックを購入して使った感想。家族でのテレビプレイがぐっと楽になりました。"
 tags: [Nintendo Switch, ゲーム, 家族, ドック]
 ---

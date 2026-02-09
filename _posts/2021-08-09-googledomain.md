@@ -2,7 +2,7 @@
 title: "GoogleDomainによる独自ドメイン運用"
 author: "komasn"
 date: 2021-08-09 18:00
-categories: GitHub Ubuntu jekyll
+categories: ["技術", "ドメイン", "Jekyll", "GitHub"]
 ---
 GoogleDomainで独自ドメインを取得しました😘
 

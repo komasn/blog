@@ -1,7 +1,7 @@
 ---
 title: "jekyllでのヘッダー編集方法"
 date: 2022-01-10 18:00
-categories: BLOG jekyll GitHub
+categories: ["技術", "Jekyll", "テーマ"]
 ---  
 <p>このブログはGitHubPagesのjekyllテンプレートを使って更新しています😃</p>  
 
