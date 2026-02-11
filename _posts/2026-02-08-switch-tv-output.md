@@ -8,7 +8,7 @@ tags: [Nintendo Switch, ゲーム, 家族, ドック]
 # {{ page.title }}
 <p>{{ page.date }}</p>
 
-[Switch2と初代Switch両対応ドックを購入]({{ '/2026/02/04/switch-dock.html' | relative_url }})の続きです。先日購入したドックが届いたので、実際に使ってみました。
+[Switch2と初代Switch両対応ドックを購入]({% post_url 2026-02-04-switch-dock %})の続きです。先日購入したドックが届いたので、実際に使ってみました。
 
 ![20260208-01]({{ '/assets/images/20260208-01.jpg' | relative_url }})  
 ![20260208-02]({{ '/assets/images/20260208-02.jpg' | relative_url }})  
