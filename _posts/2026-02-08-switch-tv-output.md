@@ -10,6 +10,12 @@ tags: [Nintendo Switch, ゲーム, 家族, ドック]
 
 [Switch2と初代Switch両対応ドックを購入]({% post_url 2026-02-04-switch-dock %})の続きです。先日購入したドックが届いたので、実際に使ってみました。
 
+<p>
+	<a href="https://www.amazon.co.jp/dp/B0FH289PMT?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank" rel="noopener noreferrer">
+		Switch2と初代Switchに対応のドック（amazon.co.jp）
+	</a>
+</p>
+
 ![20260208-01]({{ '/assets/images/20260208-01.jpg' | relative_url }})  
 ![20260208-02]({{ '/assets/images/20260208-02.jpg' | relative_url }})  
 ![20260208-03]({{ '/assets/images/20260208-03.jpg' | relative_url }})  
