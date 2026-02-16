@@ -14,16 +14,46 @@ tags: [GitHub, Android, develop, code-server, codespace]
 
 非常に便利なアプリなのですが、AndroidでもVScodeを使いたいという気持ちが大きくなってきました
 
-実施した方法は以下の２つです
+パソコンでGitHubと連携させたVScodeを使ってコーディングしていると、「これが外出先でも出来れば良いのに」と感じてしまいます  
+
+外出先やスキマ時間でのコーディングのために安いノートブックPCを買おうか迷いながら、スマホでの開発環境が便利になれば解決するのではないかと思いいろいろと試しています  
+
+スマホでVScodeを使うために、２つの方法を試して見ました
+
+- GitHub の Codespaces を使う  
 - AndroidのUserLand上にcode-serverをインストールしてChromeからアクセスして使う
-- Codespace を使う  
 
-code-serverを使った開発環境の良いところは、端末内で完結するので通信環境に影響されないところです  
+結論からいえば、どちらの方法でもスマホ上でVSCodeを使うことができました
+
+## GitHub の Codespaces を使う  
+
+まずはじめに、GitHubのCodespacesを使ってみました。
+
+[Codespaces](https://github.co.jp/features/codespaces)
+
+GitHub Codespacesとは、クラウド上でVSCodeを中心とした開発環境の利用が可能になるものです。vscode.dev
+
+|機能|vscode.dev (github.dev)|GitHub Codespaces|
+|---|---|---|
+|正体|ブラウザ上で動く「エディタ」|クラウド上の「仮想PC（Linux）」|
+|起動方法|URLを入力するか、リポジトリで . を押す|緑の [Code] ボタンから作成|
+|コードの実行|不可（ターミナルがない）|可能（本物のターミナルがある）|
+|Copilot|基本不可（一部機能制限あり）|フル機能利用可能|
+|料金|完全に無料|無料枠あり（月60〜120時間など）|
+|スマホとの相性|軽い（ブラウザだけ）|少し重い（サーバーと通信する）|
+
+単なるEditorであるvscode.devとは違い、VScodeのほぼ完全な機能を有しています
+GitHub Copilot も利用できるようになります  
+
+有料である点と、起動に少し時間がかかる点が気になりました
+
+## AndroidのUserLand上にcode-serverをインストールしてChromeからアクセスして使う
+
+AndroidにUserLandというアプリをインストールし、Ubuntu上にcode-server をインストールした上でChromeからアクセスして使います。code-serverを使った開発環境の良いところは、端末内で完結するので通信環境に影響されないところです  
 操作感もネイティブのVScodeアプリと良く似ているので、ストレスなく文章作成する事ができます  
-
-もう一つのCodespaceを使うとGitHub Copilot も利用できるようになります  
-大変便利で楽しいです
 
 作業環境を充実させるため、格安のモバイルノートパソコンが欲しいと思っているのですが、理想としてはスマホでいろいろな事が出来るようにしたいです  
 
-GitHub Copilotはproプランを契約しているものの、もうすぐ上限に達しそうです
+現在は、code-serverを使ったコーディングをためしています。
+
+いろいろな実現方法がありますが、スマホの開発環境も本当にリッチになってきたものだと改めて感じます
