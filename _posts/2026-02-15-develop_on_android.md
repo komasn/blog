@@ -31,7 +31,7 @@ tags: [GitHub, Android, develop, code-server, codespace]
 
 [Codespaces](https://github.co.jp/features/codespaces)
 
-GitHub Codespacesとは、クラウド上でVSCodeを中心とした開発環境の利用が可能になるものです。vscode.dev
+GitHub Codespacesとは、クラウド上でVSCodeを中心とした開発環境の利用が可能になるものです。
 
 |機能|vscode.dev (github.dev)|GitHub Codespaces|
 |---|---|---|
@@ -56,8 +56,7 @@ AndroidにUserLandというアプリをインストールし、Ubuntu上にcode-
 
 vscode.dev（github.dev）によるコーディングも意外と快適です
 
-コミットのメッセージを管理したり、ローカルでの動作確認などをせずに直接リモートリポジトリを更新してよければ、特に問題はないと思います
-
 現在は、code-serverを使ったコーディングをためしていますが、自分にあった方法を探していこうと思います
 
-いろいろな実現方法がありますが、スマホの開発環境も本当にリッチになってきたものだと改めて感じます
+いろいろな実現方法がありますが、スマホの開発環境も本当にリッチになってきたものだと改めて感じます  
+
