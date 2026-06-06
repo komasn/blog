@@ -119,3 +119,46 @@ body {
     width: 100%;
   }
 }
+
+/* アフィリエイトカードのスタイル */
+.affiliate-card {
+  border: 1px solid #e0e0e0;
+  border-left: 5px solid #2ecc71; /* 左側に緑のアクセントライン */
+  border-radius: 6px;
+  padding: 18px;
+  margin: 25px 0;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.card-label {
+  font-size: 0.75rem;
+  background: #2ecc71;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.card-title {
+  margin: 10px 0 5px 0 !important;
+  color: #333;
+  font-size: 1.15rem;
+}
+.card-context {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 15px;
+}
+.card-button {
+  display: inline-block;
+  background: #2ecc71;
+  color: white !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+.card-button:hover {
+  background: #27ae60;
+}
