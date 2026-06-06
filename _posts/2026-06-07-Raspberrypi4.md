@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "7年経っても現役バリバリ！Raspberry Pi 4が自宅サーバーで輝き続ける理由"
 date: 2026-06-07 00:43:59 +0900
 categories:
