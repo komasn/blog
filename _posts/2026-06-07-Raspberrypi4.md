@@ -29,7 +29,7 @@ CPUはクアッドコアのARM Cortex-A72で、私が使っているモデルは
 
 もしRaspberry Pi 4の魅力に興味を持たれた方は、ぜひ詳細をチェックしてみてください。長期的に見れば、その価値をきっと実感できるはずです。
 
-詳細情報や購入はこちら： [Raspberrypi4](https://amzn.asia/d/0056Af4S)
+{% include link-card.html url="https://amzn.asia/d/0056Af4S" title="Raspberrypi4" context="自宅サーバーの構築方法" %}
 
 ### ImmichとJellyfinで快適！自宅サーバーの活用術
 
