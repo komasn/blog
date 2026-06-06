@@ -1,10 +1,49 @@
-<div class="affiliate-card">
-  <div class="card-content">
-    <span class="card-label">おすすめリンク</span>
-    <h4 class="card-title">{{ include.title }}</h4>
-    <p class="card-context">{{ include.context }}</p>
-    <a href="{{ include.url }}" target="_blank" rel="noopener noreferrer" class="card-button">
-      詳細を見る・購入する
-    </a>
+<div class="affiliate-card" id="card-{{ include.url | slugify }}">
+  <div class="card-inner" style="display: flex; align-items: center; gap: 15px;">
+    
+    <div class="card-image-wrapper" style="flex: 0 0 120px; display: none;">
+      <img class="js-card-img" src="" alt="{{ include.title }}" style="width: 100%; height: auto; border-radius: 4px; object-fit: cover; max-height: 90px;">
+    </div>
+    
+    <div class="card-content" style="flex: 1;">
+      <span class="card-label">おすすめリンク</span>
+      <h4 class="card-title">{{ include.title }}</h4>
+      <p class="card-context">{{ include.context }}</p>
+      <a href="{{ include.url }}" target="_blank" rel="noopener noreferrer" class="card-button">
+        詳細を見る・購入する
+      </a>
+    </div>
   </div>
 </div>
+
+<script>
+(function() {
+  // リンク先のURLから情報を自動取得する
+  const targetUrl = "{{ include.url }}";
+  const cardId = "card-{{ include.url | slugify }}";
+  const cardEl = document.getElementById(cardId);
+  
+  if (!targetUrl || !cardEl) return;
+
+  // 無料のOGPデータ取得APIを利用
+  fetch(`https://api.microlink.io?url=${encodeURIComponent(targetUrl)}`)
+    .then(response => response.json())
+    .then(data => {
+      if (data.status === 'success' && data.data.image && data.data.image.url) {
+        const imgEl = cardEl.querySelector('.js-card-img');
+        const imgWrapper = cardEl.querySelector('.card-image-wrapper');
+        
+        // 画像URLをセットして、画像エリアを表示する
+        imgEl.src = data.data.image.url;
+        imgWrapper.style.display = 'block';
+        
+        // もしAIが考えた文脈（context）が空っぽだった場合、サイトの概要（description）を自動補完
+        const contextEl = cardEl.querySelector('.card-context');
+        if (!contextEl.innerText.trim() && data.data.description) {
+          contextEl.innerText = data.data.description;
+        }
+      }
+    })
+    .catch(err => console.error("OGPの取得に失敗しました:", err));
+})();
+</script>
