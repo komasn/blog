@@ -34,7 +34,7 @@ Florence Roadは、アイルランドを拠点に活動するロックバンド�
 
 彼女らの魅力を語るには、やはり実際に聴いてもらうのが一番！ということで、僕が特におすすめしたい珠玉の一曲をご紹介します。この曲を聴けば、Florence Roadが持つエモーショナルな世界観がきっと伝わるはずです。壮大なイントロから心を掴むメロディ、そして力強いボーカルに、あなたもきっと引き込まれるでしょう。
 
-{% include link-card.html url="https://youtu.be/qOAlntqyc7I?si=qBGNl9xuTSLnF2n" title="Florence Road というバンドがすごく良い（関連アイテム）" context="アイルランドのロックバンド" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOAlntqyc7I?si=AV9Wg9P-wrVZU-mZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 どうですか？この曲を聴いて、僕が感じた「アイルランドの風」が、少しでも皆さんの心に届きましたか？彼女らの音楽は、まさに感情のジェットコースター。一度耳にすれば、きっとその魅力から抜け出せなくなるはずです。
 

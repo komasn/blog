@@ -36,7 +36,7 @@ tags:
 
 たくさんの魅力的な楽曲がある中で、もし「THE BIG MOON」を初めて聴く方に一曲おすすめするなら、僕は**「Your Light」**を挙げたいです。
 
-{% include link-card.html url="https://youtu.be/1OijD72t4XY?si=9YNSW6B_go1F3VER" title="THE BIG MOON（関連アイテム）" context="イギリスの女性インディー・ロックバンド" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OijD72t4XY?si=lWJLnS5wHKI63vFf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 この曲は、彼女たちの多面的な魅力を存分に味わえる一曲だと思います。冒頭から引き込まれるギターリフ、心地よいリズム、そしてJulietteのどこか憂いを帯びた歌声が本当に素晴らしい。特にサビに向かって盛り上がっていくパートは、聴いていると胸が熱くなります。寂しさの中に希望を見出すような、そんな感情が入り混じった歌詞も心に響きます。
 
