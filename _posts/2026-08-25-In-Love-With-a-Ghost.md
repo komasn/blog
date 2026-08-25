@@ -27,7 +27,7 @@ tags:
 
 彼の詳細については、こちらのリンクでさらに深く知ることができますよ。
 
-{% include link-card.html url="https://ja.namu.wiki/w/in%20love%20with%20a%20ghost" title="In Love With a Ghost（関連アイテム）" context="パリを拠点に活動するアーティスト" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkGj71M7YS8?si=zDJUFQEw953r5aBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 僕が「In Love With a Ghost」の音楽に魅せられる理由
 
