@@ -38,13 +38,14 @@ tags:
 
 ### 僕のおすすめ曲！ 「Aura」
 
-Ghost Dataの楽曲はどれも素晴らしいですが、「まず何を聴けばいい？」と聞かれたら、僕は迷わず「**Aura**」をおすすめします。彼の代表曲の一つで、エモーショナルなサウンドデザインが凝縮された一曲です。
+Ghost Dataの楽曲はどれも素晴らしいですが、「まず何を聴けばいい？」と聞かれたら、僕は迷わず「**Full Bodied**」をおすすめします。彼の代表曲の一つで、エモーショナルなサウンドデザインが凝縮された一曲です。
 
 聴いていると、まるで宇宙を旅するような、壮大な物語の主人公になったような気分にさせてくれます。繊細でありながら力強いメロディラインは、あなたの心をきっと掴んで離さないでしょう。ぜひ、一度聴いてみてください！
 
 [Ghost Data - Aura (YouTube)](https://www.youtube.com/watch?v=s5R7O9zB-kM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0VfxCnP6_o?si=7ZViamoxScIgzJR2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-「Aura」は、Ghost Dataの音楽に惹かれる理由が詰まっています。浮遊感のあるシンセサウンドと心の琴線に触れるメロディが織りなす世界は、一度足を踏み入れたら抜け出せなくなるほどの魅力。作業中に流すと集中力が高まり、心地よい高揚感を与えてくれる不思議な力があるんです。
+「Full Bodied」は、Ghost Dataの音楽に惹かれる理由が詰まっています。浮遊感のあるシンセサウンドと心の琴線に触れるメロディが織りなす世界は、一度足を踏み入れたら抜け出せなくなるほどの魅力。作業中に流すと集中力が高まり、心地よい高揚感を与えてくれる不思議な力があるんです。
 
 ### 最後に
 
