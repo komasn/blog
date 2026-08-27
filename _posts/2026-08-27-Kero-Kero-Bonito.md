@@ -40,6 +40,8 @@ Kero Kero Bonitoの楽曲は、日常の何気ない出来事や感情を、ポ�
 
 例えば、「Flamingo」では、水鳥のフラミンゴをテーマに、個性を受け入れることの素晴らしさを歌っています。シンプルながらも心に響くメッセージと、一度聴いたら忘れられないメロディラインは、まさに彼らの真骨頂。彼らの音楽は、まるで **色鮮やかな絵本を読んでいるかのような感覚** にさせてくれるんです。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rY-FJvRqK0E?si=3cZpRvxqTsQIsNzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 僕が特に感動するのは、彼らの音楽が持つ **「肯定感」** です。どんなに小さな出来事でも、どんなに些細な感情でも、彼らのフィルターを通すと、そこには特別な意味と輝きが生まれる。この感覚が、僕にとってのKero Kero Bonitoの最大の魅力であり、聴くたびに「あぁ、このバンドに出会えてよかった！」と心から思える理由なんです。
 
 ### さあ、あなたもKKB体験を！
