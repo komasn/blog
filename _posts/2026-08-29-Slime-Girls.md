@@ -22,6 +22,8 @@ tags:
 
 Slime Girlsは、かつてロサンゼルスを拠点に活動していたアーティストです。彼らの音楽は、一言では語り尽くせないほど多様な魅力を秘めています。**チップチューン**のエッセンスと**パンク、エモ**の衝動が見事に融合し、まるでゲームの世界から飛び出してきたような懐かしさと、剥き出しの感情がぶつかり合うような激しさが同居しているんです。キュートなピコピコサウンドの中に、どこか切なくて、それでいて力強いメッセージが込められているのが特徴です。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QR5ylz5iSBc?si=7XgnruXTm4ptIO06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 初めて聴く方は、そのサウンドのユニークさに驚くかもしれません。ゲームボーイのような電子音から始まるかと思えば、突然アグレッシブなギターリフとドラムが炸裂し、感情豊かなボーカルが心に語りかけてきます。この予測不能な展開こそが、Slime Girlsの最大の魅力であり、聴く者を飽きさせない理由だと思います。
 
 {% include link-card.html url="https://slimegirls.bandcamp.com/music" title="Slime Girls（関連アイテム）" context="ロサンゼルスを拠点に活動していたアーティスト" %}

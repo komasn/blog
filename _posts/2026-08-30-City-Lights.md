@@ -30,6 +30,8 @@ tags:
 
 彼らのサウンドは、どこかノスタルジックでありながらも現代的なエレクトロニカの要素が散りばめられていて、聴く人の心にじんわりと染み渡ります。特に、**ボーカルの声が持つ透明感**と、時に力強く、時に儚く響く**ギターの音色**は、まるで都会の喧騒と静寂が織りなすハーモニーのよう。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/etdIXGAnNL0?si=cROsIm2ZR_62SOCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 僕は彼らの音楽を聴いていると、普段見慣れているはずの街の灯りが、一つ一つ、異なる物語を持っているように感じられてくるんです。例えば、仕事帰りの電車の中で聴けば、今日一日の疲れが癒されると同時に、明日への小さな希望が灯る。休日の午後にカフェで流せば、窓の外を行き交う人々一人ひとりに、それぞれのドラマがあることを教えてくれる。そんな、日々の風景に深みを与えてくれる音楽なんです。
 
 ### 音楽が繋ぐ共感の輪
